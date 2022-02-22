@@ -1,0 +1,13 @@
+/text-1.txt
+/text-2.txt
+
+/index.html
+/style.css
+
+# Auto generated files
+# auto-gen-files/a.txt
+# auto-gen-files/b.txt
+# auto-gen-files/c.txt
+
+# use * to ignore all files within a folder
+auto-gen-files/*.txt
